@@ -1,0 +1,13 @@
+C:\Users\Lenovo\Source\Repos\TheWebsite\TheWebsite\bin\Debug\netcoreapp3.1\TheWebsite.exe
+C:\Users\Lenovo\Source\Repos\TheWebsite\TheWebsite\bin\Debug\netcoreapp3.1\TheWebsite.deps.json
+C:\Users\Lenovo\Source\Repos\TheWebsite\TheWebsite\bin\Debug\netcoreapp3.1\TheWebsite.runtimeconfig.json
+C:\Users\Lenovo\Source\Repos\TheWebsite\TheWebsite\bin\Debug\netcoreapp3.1\TheWebsite.runtimeconfig.dev.json
+C:\Users\Lenovo\Source\Repos\TheWebsite\TheWebsite\bin\Debug\netcoreapp3.1\TheWebsite.dll
+C:\Users\Lenovo\Source\Repos\TheWebsite\TheWebsite\bin\Debug\netcoreapp3.1\TheWebsite.pdb
+C:\Users\Lenovo\Source\Repos\TheWebsite\TheWebsite\obj\Debug\netcoreapp3.1\TheWebsite.csprojAssemblyReference.cache
+C:\Users\Lenovo\Source\Repos\TheWebsite\TheWebsite\obj\Debug\netcoreapp3.1\TheWebsite.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Source\Repos\TheWebsite\TheWebsite\obj\Debug\netcoreapp3.1\TheWebsite.AssemblyInfo.cs
+C:\Users\Lenovo\Source\Repos\TheWebsite\TheWebsite\obj\Debug\netcoreapp3.1\TheWebsite.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Source\Repos\TheWebsite\TheWebsite\obj\Debug\netcoreapp3.1\TheWebsite.dll
+C:\Users\Lenovo\Source\Repos\TheWebsite\TheWebsite\obj\Debug\netcoreapp3.1\TheWebsite.pdb
+C:\Users\Lenovo\Source\Repos\TheWebsite\TheWebsite\obj\Debug\netcoreapp3.1\TheWebsite.genruntimeconfig.cache
